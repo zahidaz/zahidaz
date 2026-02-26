@@ -8,6 +8,8 @@ Building security tools, breaking mobile apps, and automating the boring stuff.
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.azzahid.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@xahidx)
 
+![Profile Views](https://komarev.com/ghpvc/?username=zahidaz&color=6366f1&style=flat-square&label=views)
+
 </div>
 
 ---
@@ -16,6 +18,7 @@ Building security tools, breaking mobile apps, and automating the boring stuff.
 
 - Mobile application security research and vulnerability discovery
 - Reverse engineering Android and iOS applications
+- Malware analysis and threat detection
 - Building automated security testing frameworks
 - Developing offensive security tools
 
@@ -31,10 +34,3 @@ Building security tools, breaking mobile apps, and automating the boring stuff.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Frida](https://img.shields.io/badge/Frida-EF4444?style=flat-square&logo=frida&logoColor=white)
 
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=zahidaz&color=6366f1&style=flat-square&label=views)
-
-</div>
