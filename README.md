@@ -35,8 +35,6 @@ Building security tools, breaking mobile apps, and automating the boring stuff.
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=zahidaz&theme=tokyonight&hide_border=true)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=zahidaz&color=6366f1&style=flat-square&label=views)
 
 </div>
