@@ -27,9 +27,9 @@ Building security tools, breaking mobile apps, and automating the boring stuff.
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Frida](https://img.shields.io/badge/Frida-EF4444?style=flat-square&logo=frida&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 
 ---
 
