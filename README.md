@@ -35,10 +35,6 @@ Building security tools, breaking mobile apps, and automating the boring stuff.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahidaz&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zahidaz&layout=compact&theme=tokyonight&hide_border=true&hide_title=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zahidaz&theme=tokyonight&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zahidaz&color=6366f1&style=flat-square&label=views)
